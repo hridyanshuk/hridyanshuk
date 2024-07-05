@@ -1,5 +1,3 @@
-<h1 align="center">Hello there!😄</h1>
-<h3 align="center">My name is Hridyanshu Kumar. I am a 2<sup>nd</sup> year student at IIT Guwahati</h3>
 
 <!--
 **hridyanshuk/hridyanshuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
